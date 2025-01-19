@@ -1,3 +1,2 @@
-# minecraft-shader
-pretty cool minecraft shader i made
-i made this in my free time so yeah
+# timmys script
+kewl roblox script i made, its uni script so yeah
